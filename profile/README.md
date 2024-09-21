@@ -13,6 +13,7 @@ Check out our [website for more information](http://www.mackenziemathislab.org/)
 Of particular interest:
 
 - [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut): for animal pose estimation.
-- [CEBRA](https://github.com/AdaptiveMotorControlLab/CEBRA): for supervised and unsupervised dimensionality reduction (behavioral data, neural, or both!)
+- [DLC2Kinematics](https://github.com/AdaptiveMotorControlLab/DLC2Kinematics) for processing DeepLabCut data for kinematic analysis.
+- [CEBRA](https://github.com/AdaptiveMotorControlLab/CEBRA): for supervised and unsupervised dimensionality reduction (behavioral data, neural, or both!).
 - [AmadeusGPT](https://github.com/AdaptiveMotorControlLab/AmadeusGPT): for using large language models as systems for behavioral analysis.
 - [CellSeg3D](https://github.com/AdaptiveMotorControlLab/CellSeg3d): for 3D mesoSPIM segmentation of cell soma.
