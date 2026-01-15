@@ -1,4 +1,4 @@
-## Welcome to the M. Mathis Lab  👋 
+## Welcome to the M-Lab of Adaptive Intelligence 👋 
 
 <img src="https://github.com/AdaptiveMotorControlLab/.github/assets/28102185/f2b83fd5-ea88-41df-ad24-5fdacca3fbac" width="30%" alt="Group 23">
 
@@ -6,7 +6,7 @@
 We are a team of neuroscientists, computer scientists, and enigneers that come together to tackle one of the largest challanges in science - how does the brain drive adaptive behavior. 
 Namely, our world is always changing: how do our brains adapt? We develop new machine learning methods that enable us to understand the mechanisms underlying adaptive behavior in intelligence systems, aka “adaptive intelligence”. 
 
-- From 2017-2023 we were also called the Mathis Lab of Adaptive Motor Control (hence the org name!) but decided to rename ourselves to better reflect our ML, CV, and systems neuro sides of the lab 🖤. We still really like sensorimotor control though!
+- From 2017-2023 we were also called the Adaptive Motor Control Lab (hence the org name!) but decided to rename ourselves to the M-Lab of Adaptive Intelligence (M for Mackenzie 💙) to better reflect our ML, CV, and systems neuro sides of the lab 🖤. We still really like sensorimotor control though!
 
 Check out our [website for more information](http://www.mackenziemathislab.org/), and see our open source code below!
 
